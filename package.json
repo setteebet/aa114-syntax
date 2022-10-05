@@ -1,0 +1,18 @@
+{
+  "name": "aa114-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lotto8me✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lotto8me",
+"รวมเว็บหวยออนไลน์",
+"เว็บหวย lottovip",
+"ดูหวยออนไลน์",
+"ดูสลากกินแบ่งรัฐบาลวันนี้สด"
+],
+  "repository": "https://github.com/setteebet/aa114-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
